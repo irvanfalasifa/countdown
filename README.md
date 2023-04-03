@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  simple JAM with JawaScript
+  animated-countdown with JawaScript
 </p>
 
 <p align='center'>
